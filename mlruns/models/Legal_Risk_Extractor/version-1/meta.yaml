@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1765424659252
+current_stage: None
+description: null
+last_updated_timestamp: 1765424659252
+name: Legal_Risk_Extractor
+run_id: d95977842e5e4196ad4b5bb73be70e0c
+run_link: null
+source: file:///c:/Users/flavi/OneDrive/Documentos/02.%20Python%20Scripts/legal-bert-ner-finetune/mlruns/663672420921752155/d95977842e5e4196ad4b5bb73be70e0c/artifacts/legal_bert_model
+status: READY
+status_message: null
+storage_location: file:///c:/Users/flavi/OneDrive/Documentos/02.%20Python%20Scripts/legal-bert-ner-finetune/mlruns/663672420921752155/d95977842e5e4196ad4b5bb73be70e0c/artifacts/legal_bert_model
+user_id: null
+version: 1

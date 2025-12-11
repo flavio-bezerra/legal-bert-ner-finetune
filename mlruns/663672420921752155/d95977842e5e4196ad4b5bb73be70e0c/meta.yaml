@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/flavi/OneDrive/Documentos/02.%20Python%20Scripts/legal-bert-ner-finetune/mlruns/663672420921752155/d95977842e5e4196ad4b5bb73be70e0c/artifacts
+end_time: 1765424659313
+entry_point_name: ''
+experiment_id: '663672420921752155'
+lifecycle_stage: active
+run_id: d95977842e5e4196ad4b5bb73be70e0c
+run_name: Legal-BERT-Final-Build
+run_uuid: d95977842e5e4196ad4b5bb73be70e0c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765416644536
+status: 3
+tags: []
+user_id: flavi
